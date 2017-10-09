@@ -36,7 +36,10 @@ en:
       home: "Home"
       help: "Help"
       log_in: "Log in"
+      log_out: "Log out"
       name_app: "Sample App"
+      profile: "Profile"
+      settings: "Settings"
     footer:
       about: "About"
       contact: "Contact"
@@ -80,3 +83,12 @@ en:
       create_my_account: "Create my account"
       create_succes: "Welcome to the Sample App!"
       user_not_found: "User not found"
+  login:
+    new:
+      title: "Log in"
+      log_in: "Log in"
+      email: "Email"
+      password: "Password"
+      sign_up_now: "Sign up now!"
+      text_one: "New user?"
+      log_in_fail: "Email or password incorrect"
