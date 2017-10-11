@@ -40,12 +40,16 @@ en:
       name_app: "Sample App"
       profile: "Profile"
       settings: "Settings"
+      users: "Users"
     footer:
       about: "About"
       contact: "Contact"
       news: "News"
       link1: "The Ruby on Rails Tutorial"
       link2: "by Michael Hartl"
+    user:
+      delete: "Delete"
+      you_sure: "You sure?"
   static_pages:
     home:
       title: "Home"
@@ -83,6 +87,23 @@ en:
       create_my_account: "Create my account"
       create_succes: "Welcome to the Sample App!"
       user_not_found: "User not found"
+    edit:
+        edit_profile: "Edit profile"
+        name: "Name"
+        email: "Email"
+        password: "Password"
+        confirmation: "Confirmation"
+        save_change: "Save change"
+        change_avata: "Change avata"
+        updated_success: "Profile updated"
+        please_login: "Please log in."
+    index:
+      all_users: "All users"
+    user:
+      delete: "Delete"
+      you_sure: "You sure?"
+      deleted: "User deleted"
+      delete_fail: "Delete fail"
   login:
     new:
       title: "Log in"
