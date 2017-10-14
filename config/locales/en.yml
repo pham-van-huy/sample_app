@@ -115,6 +115,7 @@ en:
       text_one: "New user?"
       log_in_fail: "Email or password incorrect"
       remember: "Remember me on this computer"
+      forgot_password: "Forgot password"
   mailer:
     user:
       account_activation: "Account activation"
@@ -122,4 +123,21 @@ en:
       activate: "Activate"
       account_activated: "Account activated!"
       message: "Account not activated. Check your email for the activation link."
-
+      password_reset: "Password reset"
+  password_reset:
+    new:
+      title: "Forgot password"
+      email: "Email"
+      submit: "Submit"
+      info: "Email sent with password reset instructions"
+      danger: "Email address not found"
+      text_one: "To reset your password click the link below:"
+      text_two: "This link will expire in two hours. If you did not request your password to be reset,
+        please ignore this email and your password will stay as it is."
+      password_reset: "Password reset"
+      reset_password: "Reset password"
+      confirmation: "Confirmation"
+      update_password: "Update password"
+      cant_not_empty: "Can't be empty"
+      reseted: "Password has been reset."
+      password_expired: "Password reset has expired."

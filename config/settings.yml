@@ -5,3 +5,6 @@ user:
   size_avata_defaut: 100
   remember: "1"
   not_remember: "0"
+reset:
+  expired: 2
+
