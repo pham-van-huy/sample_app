@@ -7,4 +7,14 @@ user:
   not_remember: "0"
 reset:
   expired: 2
-
+post:
+  max_content: 140
+  picture_size: 5
+  width: 400
+  height: 400
+share:
+  micropost:
+    img_allow: "image/jpeg,image/gif,image/png"
+    size_avate: 50
+  user:
+    size_img: 50

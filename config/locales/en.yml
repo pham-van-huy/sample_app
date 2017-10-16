@@ -32,6 +32,7 @@ en:
   layouts:
     application:
       title: "Ruby on Rails Tutorial Sample App"
+      please_log_in: "Please log in."
     header:
       home: "Home"
       help: "Help"
@@ -59,6 +60,7 @@ en:
       para_2: "sample application."
       sign_up_now: "Sign up now!"
       rails_logo: "Rails logo"
+      micropost_feed: "Micropost Feed"
     help:
       title: "Help"
       header: "Help"
@@ -105,6 +107,8 @@ en:
       you_sure: "You sure?"
       deleted: "User deleted"
       delete_fail: "Delete fail"
+    show:
+      microposts: Microposts
   login:
     new:
       title: "Log in"
@@ -141,3 +145,17 @@ en:
       cant_not_empty: "Can't be empty"
       reseted: "Password has been reset."
       password_expired: "Password reset has expired."
+  micropost:
+    micropost_created: "Micropost created!"
+    micropost_deleted: "Micropost deleted"
+    size_img_error: "Should be less than %{number}MB"
+    posted: "Posted"
+    ago: "ago."
+    you_sure: "You sure?"
+  share:
+    error:
+      text_one: "The form contains"
+    micropost:
+      place_holder: "Compose new micropost..."
+      alert: "Maximum file size is %{number}MB. Please choose a smaller file."
+      post: "Post"
