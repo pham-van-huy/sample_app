@@ -109,6 +109,13 @@ en:
       delete_fail: "Delete fail"
     show:
       microposts: Microposts
+    follow:
+      follow: "Follow"
+      unfollow: "Unfollow"
+      followers: "Followers"
+      following: "Following"
+      follow_fail: "Can't follow this User"
+      unfollow_fail: "Can't unfollow this User"
   login:
     new:
       title: "Log in"
@@ -159,3 +166,6 @@ en:
       place_holder: "Compose new micropost..."
       alert: "Maximum file size is %{number}MB. Please choose a smaller file."
       post: "Post"
+    stats:
+      following: "following"
+      followers: "followers"
